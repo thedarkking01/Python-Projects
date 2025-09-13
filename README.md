@@ -4,7 +4,7 @@ Welcome to the **Python Projects Collection**! 🎉
 This repository is a growing collection of **interesting Python projects** ranging from beginner-friendly scripts to more advanced applications.  
 
 The goal of this repo is to:  
-- 📚 Help learners explore Python through real examples.  
+- 📚 Help learners explore Python through real life examples.  
 - 💡 Showcase different problem-solving approaches.  
 - 🤝 Encourage open-source collaboration.  
 
