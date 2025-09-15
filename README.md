@@ -29,7 +29,7 @@ Each project may include:
 1. **Clone the repo**
    ```bash
    git clone https://github.com/thedarkking01/Python-Projects.git
-   cd <repo-name>
+   cd Python-Projects
    ```
 
 2. **Run a project**
