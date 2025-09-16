@@ -15,7 +15,7 @@ The goal of this repo is to:
 - Intermediate projects (mini applications, data processing, automation).  
 - Advanced projects (APIs, GUIs, machine learning, system tools).  
 
-> The structure and content may evolve as more projects are added. Stay tuned for updates!  
+> The structure and content may evolve as more projects are added. Stay tuned for more new updates! 😊  
 
 Each project may include:  
 - 📄 Python source code  
