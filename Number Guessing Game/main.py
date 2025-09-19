@@ -1,10 +1,10 @@
 import random
 
 print("Welcome to number guessing game.\n")
-right_number = random.randint(1, 5)
+right_number = random.randint(1, 100)
 
 print("I've picked a number for you to guess.")
-print("The number is between 1 and 5.\n")
+print("The number is between 1 and 100.\n")
 
 guessed_number = int(input("Guess a number: "))
 
