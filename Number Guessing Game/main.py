@@ -23,4 +23,4 @@ while guessed_number != right_number:
 
     guessed_number = int(input("Enter guess number again: "))
 print("\nCorrect guess.")
-print("You won. Thank you for playing.")
+print("You won. Thank you for playing.⭐⭐⭐")
