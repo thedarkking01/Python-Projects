@@ -22,5 +22,5 @@ while guessed_number != right_number:
         print("Choose a higher number.\n")
 
     guessed_number = int(input("Enter guess number again: "))
-print("\nCorrect guess.")
+print("\nCorrect guess 👍.")
 print("You won. Thank you for playing.⭐⭐⭐")
