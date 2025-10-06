@@ -23,4 +23,4 @@ string = 'apple'
 result = can_make(lst, string)
 
 # print the result
-print(result)
+print(result)Remove Duplicate Characters in the String
