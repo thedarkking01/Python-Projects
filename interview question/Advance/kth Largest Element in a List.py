@@ -1,11 +1,9 @@
 # define a function that finds the kth largest
 # element in a list of integers
 def kth_largest_element(nums_list, k):
-
     # loop timer is how many times we are
     # planning to run loop i.e. k - 1 times
     loop_timer = k - 1
-
     # keep only unique elements in a list using set and function
     # then again converting the set to list
     unique_numbers = list(set(nums_list))
